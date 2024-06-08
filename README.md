@@ -24,7 +24,7 @@ Before you begin, ensure you have the following installed on your machine:
 2. Navigate into the project directory:
 
     ```bash
-    cd my-parcel-react-app
+    cd parcel-react-app
     ```
 
 3. Install dependencies:
