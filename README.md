@@ -18,7 +18,7 @@ Before you begin, ensure you have the following installed on your machine:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/my-parcel-react-app.git
+    git clone https://github.com/vraj-chovatiya/parcel-react-app.git
     ```
 
 2. Navigate into the project directory:
